@@ -55,6 +55,3 @@ def ex_dictionary():
     # example_dictionary.keys() - returns all the keys from the dictionary
     # example_dictionary.items() - returns pairs of keys and values
     # example_dictionary.copy() - makes a copy of the dictionary
-
-if __name__ == "__main__":
-    ex_dictionary()
