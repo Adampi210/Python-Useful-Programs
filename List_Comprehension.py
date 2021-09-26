@@ -5,7 +5,6 @@ based on the old list, and specified parameters as follows:
 new_list = [output_expression for item in iterable if condition]
 the if condition can be if else condition. Compared with for loops list comprehension
 is more computationally efficient, but less flexible
-
 '''
 
 def ex_list_comp():

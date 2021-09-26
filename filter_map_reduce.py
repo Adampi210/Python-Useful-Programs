@@ -62,3 +62,4 @@ def simpleReduce(data):
     # The lambda function  accepts 2 arguments - x and y, and returns their sum
     result = reduce(lambda x, y: x + y, data)
     return result
+

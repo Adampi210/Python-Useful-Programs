@@ -18,6 +18,7 @@ Dictionaries - ordered, changable, and indexed. Uses curly brackests {} like set
 has keys and values. Keys are used to reference values, and values can be different things
 (values can  be dictionaries themselfes).
 '''
+
 def ex_list():
     example_list = [0, 1, 2, 3, 4, 5, 6]
     # print(example_list[0:4]) # prints values on indexes from 0 to 3 including (or 4 excluding)
@@ -54,6 +55,3 @@ def ex_dictionary():
     # example_dictionary.keys() - returns all the keys from the dictionary
     # example_dictionary.items() - returns pairs of keys and values
     # example_dictionary.copy() - makes a copy of the dictionary
-
-if __name__ == "__main__":
-    ex_dictionary()
